@@ -149,6 +149,3 @@ This project was built as part of the **PLP Academy MERN Stack Specialization**,
 ###  Author
 
 **Adesanya Ayomide Precious**
- 
-Would you like me to personalize this README further — for example, by adding your **actual GitHub links, Render URL, and Vercel link placeholders** automatically into it?
- 
