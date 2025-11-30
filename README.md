@@ -1,10 +1,4 @@
-Perfect 🌿 — here’s a **clean, humanly written and professional `README.md`** you can paste directly into your project (or GitHub).
-
-It’s written to impress your instructors or anyone reviewing your work — explaining **what your EcoPledge Tracker does**, how it supports **SDG 13: Climate Action**, and how to **run or deploy** it easily.
-
----
-
-# 🌿 EcoPledge Tracker
+ 🌿 EcoPledge Tracker
 
 *A MERN Stack project aligned with UN SDG 13 – Climate Action*
 
